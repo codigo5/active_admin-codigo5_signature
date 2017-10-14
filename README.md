@@ -1,6 +1,8 @@
 # ActiveAdmin Codigo5 Signature
 Easily add Codigo5 Web Signature to your ActiveAdmin footer.
 
+<img src="./demo.png"/>
+
 ## Installation
 **1. Include to your Gemfile**
 ```bash
